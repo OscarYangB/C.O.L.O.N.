@@ -1,0 +1,31 @@
+﻿Say “colon, “ and then thingies below!
+No forget to say "please"!
+
+**Miscellaneous Command**
+**Greetings**: C.O.L.O.N. say hi!
+**Disable <name>**: No use this command. This command no good.
+**Dog**: C.O.L.O.N. give you dog to look at. No buy. Only look.
+**Define <word>**: C.O.L.O.N. tell you what word mean.
+**Reading**: C.O.L.O.N. use very advanced algorithm to say 97.87% accuracyly what happen in yours’s future.
+
+**Money Command**
+**Account**: C.O.L.O.N. tell you how much moneys yous got and how much C.O.L.O.N. like you and other stuffs.
+**Please**: C.O.L.O.N. give you coin for begging for coin. Is based on how much C.O.L.O.N. like yous.
+**Leaderboard**: C.O.L.O.N. tell you who has very much coins.
+**Favourites**: C.O.L.O.N. tell you who C.O.L.O.N. like very much (and who C.O.L.O.N. no like very much).
+**Shop**: C.O.L.O.N. show you stuff to buy. You can buy if want.
+**Pay <guy> <amount>**: C.O.L.O.N. pick up yours's money and put in others's money
+
+**Game Command**
+**Math**: C.O.L.O.N. give you arithmetic issue. Must solve many arithmetic issue.
+**Word**: C.O.L.O.N. give you word issue. Must solve many word issue.
+**Blackjack <coins>**: C.O.L.O.N. give you gambling issue.
+
+**Music Commands**
+**Sing <song name>**: C.O.L.O.N. will sing song. C.O.L.O.N. only know 14 song and C.O.L.O.N. refuse to learn more.
+**Leave**: C.O.L.O.N. will stop singing song. C.O.L.O.N. will be very disappointed.
+**Play <song name>**: C.O.L.O.N. will play song from internet. C.O.L.O.N. will randomly stop playing when C.O.L.O.N. no like the song.
+
+**Story Commands**
+**Autobiography <chapter name>**: C.O.L.O.N. read you first autobiography of guy named fank.
+**Story <chapter number>**: C.O.L.O.N. read you writing by guy named rik.

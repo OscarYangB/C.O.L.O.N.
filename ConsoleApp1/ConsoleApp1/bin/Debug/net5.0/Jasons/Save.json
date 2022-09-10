@@ -1,0 +1,74 @@
+[
+  {
+    "user": {
+      "accent_color": null,
+      "BannerColor": null,
+      "bot": false,
+      "id": 433708411796848660
+    },
+    "name": "Bob Jiang",
+    "colonCoins": 8582,
+    "manners": 168,
+    "items": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "playTokens": 50
+  },
+  {
+    "user": {
+      "accent_color": null,
+      "BannerColor": null,
+      "bot": false,
+      "id": 816056105012428800
+    },
+    "name": "Dummy",
+    "colonCoins": 229,
+    "manners": 2,
+    "items": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "playTokens": 10
+  },
+  {
+    "user": {
+      "accent_color": null,
+      "BannerColor": null,
+      "bot": false,
+      "id": 265253290155966464
+    },
+    "name": "BluSharpie",
+    "colonCoins": -360000,
+    "manners": 986,
+    "items": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "playTokens": 9979
+  }
+]
